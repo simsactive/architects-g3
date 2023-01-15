@@ -149,7 +149,7 @@ img{
     height: 982px; 
 }
 
-.box{
+.box-1 .box{
     border-left: 5px solid #FF900E;
 }
 
@@ -282,12 +282,54 @@ img{
 
 
 
+/*-----------------------
+     Sponsors and Image  
+------------------------*/
 
 
+.sponsor{
+    margin-top: 180px;
+    width: 1920px;
+}
+.sponsor-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+}
 
 
+.sponsor-description{
+    text-align: center;
+    color: #727272;
+    margin-bottom: 50px;
+}
 
 
+.sponsor-container{
+    margin-left: 240px;
+    width: 1350px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 150px;
+}
 
 
+/* --------------------
+    Footer Section      
+-----------------------*/
+footer{
+    margin-left: 240px;
+    width: 1440px;
+}
+.footer{
+    text-align: center;
+    height: 100px;
+    background-color: #f1d6b3;
+    border-radius: 8px;;
+    font-weight: 700;
+    font-size: 20px;
+    color: #424242;
+    padding-top: 50px;
+}
 
