@@ -191,7 +191,8 @@ img{
     width: 800px;
     height: 1059px;
     margin-top: 50px;
-    background-image: url(../images/architect.png); 
+    background-image: url(../images/architect.png);
+    background-repeat: no-repeat;
 }
 
 .image-title{
@@ -311,9 +312,6 @@ img{
 }
 
 
-
-
-
 .sponsor-container{
     margin-left: 240px;
     width: 1350px;
@@ -340,3 +338,4 @@ footer{
     color: #424242;
     padding-top: 50px;
 }
+
