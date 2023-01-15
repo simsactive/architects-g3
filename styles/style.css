@@ -137,10 +137,10 @@ img{
 
 .container{
     margin: 130px 240px;
-    border: 3px dotted peru;
     width: 1440px;
     height: 1059px;
     display: flex;
+    padding-bottom: 250px;
 }
 
 
@@ -167,9 +167,7 @@ img{
     padding-bottom: 30px;
 }
 
-.love-title{
-    margin: 30px;
-}
+
 
 .box-description{
     padding-bottom: 50px;
@@ -190,15 +188,16 @@ img{
 
 
 .box-2{
-    border: 3px dashed peru;
     width: 800px;
     height: 1059px;
-    
+    margin-top: 50px;
     
 }
 
 .image-title{
     margin-left: 90px;
+    width: 708px;
+    height: 982px;
 }
 
 
@@ -224,3 +223,10 @@ img{
     color: #FFFFFF;
     padding-bottom: 24px;
 }
+
+
+/* ------------------------
+   Facts and Award Section
+---------------------------*/
+
+
