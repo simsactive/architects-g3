@@ -305,6 +305,14 @@ img{
     margin-bottom: 50px;
 }
 
+.sponsor-container img{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+
+
+
 
 .sponsor-container{
     margin-left: 240px;
@@ -332,4 +340,3 @@ footer{
     color: #424242;
     padding-top: 50px;
 }
-
