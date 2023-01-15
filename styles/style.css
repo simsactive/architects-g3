@@ -41,7 +41,11 @@ nav li{
 
 .banner{
     margin: 0 240px;
-    align-items: center;
+    
+}
+
+.banner .btn-primary{
+    margin-left: 630px;
 }
 
 .banner-title{
@@ -65,8 +69,8 @@ button{
     background: #FF900E;
     border-radius: 10px;
     margin-bottom: 30px;
-    background-position: center;
-    justify-content: center;
+    
+    
 
     
 }
@@ -79,14 +83,8 @@ button{
 }
 
 
-
-.banner-image{
-    width: 1440px;
-    height: 700px;
-}
-
 img{
-    border-radius: 50px;
+    border-radius: 8px;
 }
 
 
@@ -133,5 +131,96 @@ img{
 }
 
 
+/* -------------------------------------
+     Love & Enjoy + Experience Style  
+---------------------------------------*/
+
+.container{
+    margin: 130px 240px;
+    border: 3px dotted peru;
+    width: 1440px;
+    height: 1059px;
+    display: flex;
+}
 
 
+.box-1{
+    width: 586px;
+    height: 982px; 
+}
+
+.box{
+    border-left: 5px solid #FF900E;
+}
+
+.box-1-title{
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+}
+
+.box-1-sub-title{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    padding-bottom: 30px;
+}
+
+.love-title{
+    margin: 30px;
+}
+
+.box-description{
+    padding-bottom: 50px;
+    
+}
+
+.box-title-1{
+    font-weight: 600;
+    font-size: 20px;
+    color: #131313;
+}
+
+.box-description-1{
+    color: #727272;
+}
+
+
+
+
+.box-2{
+    border: 3px dashed peru;
+    width: 800px;
+    height: 1059px;
+    
+    
+}
+
+.image-title{
+    margin-left: 90px;
+}
+
+
+    
+.box-3{
+    background-color: #FF900E;
+    width: 342px;
+    height: 200px;
+}
+
+.box-3-sub-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    padding-top: 25px;
+}
+
+.box-3-description{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+}
